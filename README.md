@@ -4,12 +4,19 @@ This repository contains the code and resources for the Mercedes-Benz Greener Ma
 
 ## Table of Contents
 Project Description
+
 Dataset
+
 Usage
+
 Results
+
 Technologies Used
+
 Modeling Approach
+
 Contributing
+
 Citation
 
 ### Project Description
